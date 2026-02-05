@@ -2,24 +2,34 @@
 
 ### 1. Each Component is defined into it's own file
 
-- Goal name all the components
-  - Seperate said components into each file
+- Goal name all the components, seperate said components into each file
+  - `Components` (plantDetails, plantList)
+    - App
 
 ### 2. Folders are used to organize related components and files. ✔
 
 - Have folders lol(This will naturally happen will check it off already)
 
-### 3.
+# App
+
+### 3. The cart is managed as a state variable in <App>.
 
 ### 4.
 
 ### 5.
 
-### 6.
+# Plants
 
-### 7.
+### 6.See image ✔
 
-### 8.
+### 7. Add to cart button ✔
+
+- Button increases quantiy in cart by 1
+- Adds item to cart if not in cart
+
+### 8. 2 seperate components(plantDetails, plantList) ✔
+
+# Cart
 
 ### 9.
 
